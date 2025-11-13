@@ -12,7 +12,7 @@ Each project focuses on applying data science techniques to real-world problems,
 Exploring and analyzing data from the One Piece universe — building a structured database and uncovering insights about characters, episodes, and story arcs.
 
 ### [Movie web scraper](https://github.com/guillemguell/movie-web-scraper)
-*Private for the moment*
+*Private for the moment*  
 Collecting movie data from IMDb - scraping rankings, metadata, and other relevant information to build a structured dataset for analysis.
 
 ---
