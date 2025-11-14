@@ -10,8 +10,8 @@ Each project focuses on applying data science techniques to real-world problems,
 ### [One Piece Database](https://github.com/guillemguell/one_piece_database)
 *A work in progress*  
 Exploring and analyzing data from the One Piece universe — building a structured database and uncovering insights about characters, episodes, and story arcs.  
-Using the scraped Devil Fruit data, I also created the following virtual interactive encyclopedia:  
-[Devil Fruit Encyclopedia](https://guillemguell.github.io/devil_fruit_encyclopedia/)
+Using the scraped Devil Fruit data, I also created a virtual and interactive [devil fruit encyclopedia](https://guillemguell.github.io/devil_fruit_encyclopedia/)
+
 
 ### [Movie web scraper](https://github.com/guillemguell/movie-web-scraper)
 *Private for the moment*  
